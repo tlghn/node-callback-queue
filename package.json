@@ -1,0 +1,23 @@
+{
+  "name": "node-callback-queue",
+  "version": "1.0.0",
+  "description": "Callback queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlghn/node-callback-queue.git"
+  },
+  "keywords": [
+    "callback",
+    "queue"
+  ],
+  "author": "Tolgahan Albayrak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tlghn/node-callback-queue/issues"
+  },
+  "homepage": "https://github.com/tlghn/node-callback-queue#readme"
+}
