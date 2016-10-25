@@ -1,6 +1,6 @@
 {
   "name": "node-callback-queue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Callback queue",
   "main": "index.js",
   "scripts": {
